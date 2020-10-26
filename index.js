@@ -1,6 +1,6 @@
 const camelcase = require('camelcase')
 const clonedeep = require('lodash.clonedeep')
-const pkgName = '[cypress-dotenv]'
+const pkgName = '[cypress-dotenv-flow]'
 
 /**
  * Cypress dotenv plugin

@@ -1,7 +1,7 @@
 {
-  "name": "cypress-dotenv",
+  "name": "cypress-dotenv-flow",
   "version": "1.2.2",
-  "description": "Cypress plugin that enables compatability with dotenv",
+  "description": "Cypress plugin that enables compatability with dotenv-flow",
   "main": "index.js",
   "files": [
     "index.js"
@@ -15,8 +15,8 @@
     "cypress": "cypress open",
     "prepublishOnly": "npm test"
   },
-  "repository": "https://github.com/morficus/cypress-dotenv.git",
-  "homepage": "https://github.com/morficus/cypress-dotenv",
+  "repository": "https://github.com/kamikazePT/cypress-dotenv-flow.git",
+  "homepage": "https://github.com/kamikazePT/cypress-dotenv-flow",
   "engines": {
     "node": ">=8.x"
   },
